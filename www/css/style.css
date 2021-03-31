@@ -1,0 +1,20 @@
+.display{
+  margin-top: 20px;
+  height: 80px;
+  font-size: 50px;
+}
+.linha{
+  margin-top: 10px;
+  margin-right: 1px;
+  margin-left: 1px
+}
+.linha button{
+  font-size: 20px;
+}
+.igual{
+  font-size: 20px;
+  background-color: greenyellow;
+  height: 7vh;
+  color: greenyellow;
+  
+}
